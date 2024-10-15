@@ -1,7 +1,7 @@
 name: simple
 description: "A lightweight Flutter package for simplifying UI development"
 version: 0.0.1
-homepage: https://github.com/codingmitra/simple
+homepage: https://github.com/codingmitra/simple.git
 
 environment:
   sdk: ^3.5.3
